@@ -16,3 +16,7 @@
 
 ![고양](https://user-images.githubusercontent.com/81023611/135751183-05cedc27-9396-4ccb-b18c-38ece2d4dbff.png)
 ![강아](https://user-images.githubusercontent.com/81023611/135751188-94d87048-e7a7-4603-a730-2c8108eed052.png)
+
+## 6주차 과제
+![넓](https://user-images.githubusercontent.com/81023611/136235330-ee5e8a45-851b-458e-8f96-2786a7c6a062.png)
+![높](https://user-images.githubusercontent.com/81023611/136235343-9cfe2751-f4d3-4a32-b158-f5a13cd8bb2d.png)
