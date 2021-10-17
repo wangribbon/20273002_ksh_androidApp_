@@ -20,3 +20,6 @@
 ## 6주차 과제
 ![넓](https://user-images.githubusercontent.com/81023611/136235330-ee5e8a45-851b-458e-8f96-2786a7c6a062.png)
 ![높](https://user-images.githubusercontent.com/81023611/136235343-9cfe2751-f4d3-4a32-b158-f5a13cd8bb2d.png)
+
+##7주차 과제
+![20273002](https://user-images.githubusercontent.com/81023611/137630988-603942d4-eb79-4ac3-b6d3-8e1f6f08765e.png)
