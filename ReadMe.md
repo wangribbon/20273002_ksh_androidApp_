@@ -23,3 +23,6 @@
 
 ## 7주차 과제
 ![20273002](https://user-images.githubusercontent.com/81023611/137630988-603942d4-eb79-4ac3-b6d3-8e1f6f08765e.png)
+
+## 8주차 과제
+![drawable](https://user-images.githubusercontent.com/81023611/138866859-ce132b95-1d32-4031-a835-61db949902e1.png)
